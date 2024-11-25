@@ -1,0 +1,2 @@
+# Quik Chat App Front-End
+ I'm designing the UI for QuickChat, a mobile messaging app focused on a seamless and user-friendly experience. QuickChat redefines messaging with an intuitive interface, promoting quick communication. It offers efficient text exchanges and emphasizes thoughtful design. Implementing the UI using XML in Android Studio, I aim to blend aesthetics and functionality, creating a platform that enhances mobile communication and delights users.
