@@ -1,0 +1,107 @@
+<resources>
+
+    <!--   dashboard -->
+
+
+    <string name="app_name">QuikChat</string>
+    <string name="hello">Hello 💪</string>
+    <string name="_1_00_am">1.00 am</string>
+    <string name="_5_00_am">5.00 am</string>
+    <string name="_3_30_pm">3.30 pm</string>
+    <string name="_8_00_pm">8.00 pm</string>
+    <string name="larry_fields">Larry Fields</string>
+    <string name="andrew_williams">Andrew Williams</string>
+    <string name="jesse_foster">Jesse Foster</string>
+    <string name="arnold_rodgers">Arnold Rodgers</string>
+    <string name="emerson_jane">Emerson Jane</string>
+    <string name="let_make_it_more_attractive">Let make it more attractive! 👍</string>
+    <string name="make_more_beautiful">Make more beautiful! ❤️✌️</string>
+    <string name="wow_this_is_great">Wow this is great! 🚀</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="group">Group</string>
+    <string name="calls">Calls</string>
+    <string name="tom">Tom</string>
+    <string name="marco_santos">Marco Santos</string>
+    <string name="fix_a_time_for_the_meating">Fix a time for the meating 🙌</string>
+    <string name="all">All</string>
+    <string name="felix">Felix</string>
+    <string name="stories">Stories</string>
+    <string name="anit">Anit</string>
+    <string name="aman">Aman</string>
+    <string name="your_story">Your Story</string>
+
+<!--    goup page  -->
+
+    <string name="emerson_janegroup">Emerson Jane</string>
+    <string name="grouppage">Group</string>
+    <string name="callspage">Calls</string>
+    <string name="let_make_it_more_attractive2">Let make it more attractive! 👍</string>
+    <string name="good_morning2">Good morning !✌️</string>
+    <string name="wow_this_is_great2">Wow this is great! 🚀</string>
+    <string name="fix_a_time_for_the_meating2">Fix a time for the meating 🙌</string>
+    <string name="hello2">Hello 💪</string>
+    <string name="event2">Event</string>
+    <string name="company2">Company</string>
+    <string name="sports_club2">Sports Club</string>
+    <string name="university2">University</string>
+    <string name="yesterday2">Yesterday</string>
+    <string name="school2">School</string>
+    <string name="_8_00_pm2">8.00 pm</string>
+    <string name="_3_30_pm2">3.30 pm</string>
+    <string name="_5_00_am2">5.00 am</string>
+    <string name="_1_00_am2">1.00 am</string>
+    <string name="all2">All</string>
+    <string name="your_story2">Your Story</string>
+    <string name="tom2">Tom</string>
+    <string name="stories2">Stories</string>
+    <string name="felix2">Felix</string>
+    <string name="anit2">Anit</string>
+    <string name="aman2">Aman</string>
+
+    <!--   Call page -->
+
+    <string name="tom3">Tom</string>
+    <string name="stories3">Stories</string>
+    <string name="aman3">Aman</string>
+    <string name="anit3">Anit</string>
+    <string name="felix3">Felix</string>
+    <string name="your_story3">Your Story</string>
+    <string name="all3">All</string>
+    <string name="calls3">Calls</string>
+    <string name="group3btn">Group</string>
+    <string name="emerson_jane3">Emerson Jane</string>
+    <string name="_05_11_2023_8_00_am3">05/11/2023, 8.00 am</string>
+    <string name="_03_11_2023_11_00_am3">03/11/2023, 11.00 am</string>
+    <string name="_01_11_2023_3_00_pm3">01/11/2023, 3.00 pm</string>
+    <string name="_28_10_2023_1_00_pm3">28/10/2023, 1.00 pm</string>
+    <string name="ann3">Ann ▶</string>
+    <string name="tom3story">Tom ◀</string>
+    <string name="_11_23_456_8903">+11 23 456 890 ◀</string>
+    <string name="tom3call">Tom ▶</string>
+    <string name="aman3call">Aman ◀</string>
+    <string name="_25_10_2023_1_00_amchat3">25/10/2023, 1.00 am</string>
+
+    <!--   Cat page -->
+
+    <string name="hello_10_20_amchat">Hello 🖐️ 10.20 am</string>
+    <string name="type_a_massagechat">| Type a massage...</string>
+    <string name="hello_thank_you_for_your_help_11_00_amchat">Hello,Thank you for your help. 11.00 am</string>
+    <string name="arnold_rodgerschat">Arnold Rodgers</string>
+
+    <!--   onboardscreen1 -->
+
+    <string name="onboard_1_discription">Passing of any information on any screen, any device instantly is made simple at its sublime.</string>
+    <string name="onboard_1_title">Chat anytime, anywere</string>
+
+    <!--   onboardscreen2 -->
+
+    <string name="onboard_2_title">your space in your dream</string>
+    <string name="onboard_2_discription">A lag-free video chat connection between your users is easy and much everywhere on any device.</string>
+
+    <!--   onboardscreen3 -->
+
+    <string name="onboard_3_title">Perfect chat solution</string>
+    <string name="onboard_3_discription">your space in your dream your space in your dream your space in your dream are space in your dream</string>
+
+
+</resources>
